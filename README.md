@@ -8,7 +8,10 @@ ms.custom: 내용
 
 
 # Quickstart: Deploy an Azure Kubernetes Service cluster using the Azure CLI
-
+---
+title: 'Quickstart: Deploy an AKS cluster by using Azure CLI'
+ms.custom: 내용
+---
 Azure Kubernetes Service (AKS) is a managed Kubernetes service that lets you quickly deploy and manage clusters. In this quickstart, you will:
 
 * Deploy an AKS cluster using the Azure CLI.
