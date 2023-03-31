@@ -4,6 +4,7 @@ description: Learn how to quickly create a Kubernetes cluster, deploy an applica
 ms.topic: quickstart
 ms.date: 11/01/2022
 ms.custom: H1Hack27Feb2017, mvc, devcenter, seo-javascript-september2019, seo-javascript-october2019, seo-python-october2019, devx-track-azurecli, contperf-fy21q1, mode-api
+
 A: aa
 B: bb
 #Customer intent: As a developer or cluster operator, I want to quickly create an AKS cluster and deploy an application so that I can see how to run and monitor applications using the managed Kubernetes service in Azure.
